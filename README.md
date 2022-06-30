@@ -66,3 +66,9 @@ nx run nnwml-self-driving-car:version --push --releaseAs=minor
 ### clean architecture
 
 <https://github.com/guiseek/nx-clean/tree/main/libs/plugin/core>
+
+## Legacy
+
+- Commit history and testing from NX Monorepo
+- Ported old project and built on top of Svelte & Vite
+- Old Project [Source[(https://github.com/lloydlobo/mononom-web-apps/tree/main/apps/nnwml/self-driving-car)
